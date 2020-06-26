@@ -26,6 +26,7 @@ public class Change {
         }
 
         System.out.println(coinsArray.toString());
+
         return coinCount;
     }
 
